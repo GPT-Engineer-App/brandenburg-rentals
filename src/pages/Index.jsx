@@ -19,7 +19,7 @@ const Index = () => {
 
         <SimpleGrid columns={[1, null, 2]} spacing={10} as="section">
           <Box>
-            <Image src="https://images.unsplash.com/photo-1591831663069-64b214df2f94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxvZmZpY2UlMjBidWlsZGluZyUyMFBvdHNkYW18ZW58MHx8fHwxNzA5MTE5NDY1fDA&ixlib=rb-4.0.3&q=80&w=1080" borderRadius="lg" alt="Office Building in Potsdam" />
+            <Image src="https://via.placeholder.com/1080" borderRadius="lg" alt="Office Building in Potsdam" />
           </Box>
           <VStack spacing={4} align="flex-start">
             <Heading as="h3" size="lg" color={textColor}>
